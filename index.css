@@ -1,0 +1,225 @@
+.logo_size{
+max-width: 136px;
+
+}
+.margin_remover{
+  margin-left: 10rem;
+  padding: 0px;
+}
+
+
+
+
+.pypl {
+  position: absolute;
+  top: 350px;
+  margin-left: 120px;
+  color: white;
+  font-weight: lighter;
+
+}
+
+.btn {
+  padding-left: 100px;
+  padding-right: 100px;
+  position: absolute;
+  top: 260px;
+  border-radius: 20px;
+  color: white;
+  margin-left: 250px;
+  margin-top: 200px;
+}
+
+.signform {
+  margin-bottom: 0px;
+  
+}
+
+.btns {
+  border-radius: 20px;
+  margin-right: 24px;
+  width: 200px;
+  background-color: transparent;
+  border: 1px solid #0070ba;
+  color: #0070ba;
+
+}
+
+.btnx {
+  border-radius: 20px;
+  color: white;
+  width: 200px;
+
+}
+
+.account {
+  position: absolute;
+  top: 120px;
+  margin-left: 250px;
+  margin-right: 700px;
+  margin-top: 400px;
+  text-align: center;
+}
+
+.free {
+  position: absolute;
+  bottom: 100px;
+  margin-left: 100px;
+}
+
+.customer {}
+
+.btny {
+  position: absolute;
+  margin-left: 600px;
+  bottom: 100px;
+  border-radius: 20px;
+  text-decoration-line: underline;
+  text-justify: auto;
+  width: 200px;
+
+
+}
+
+.icon {
+  position: absolute;
+  margin-left: 350px;
+}
+
+.indiv {
+  position: absolute;
+  top: 1150px;
+  margin-left: 300px;
+}
+
+.phone {
+  position: absolute;
+  margin-left: 600px;
+}
+
+.busi {
+  position: absolute;
+  top: 1150px;
+  margin-left: 600px;
+}
+
+.bags {
+  position: absolute;
+  margin-left: 1000px;
+}
+
+.parts {
+  position: absolute;
+  top: 1150px;
+  margin-left: 900px;
+}
+
+.find {
+  position: absolute;
+  top: 1200px;
+  margin-left: 200px;
+}
+
+.join {
+  position: absolute;
+  top: 1200px;
+  margin-left: 550px;
+}
+
+.work {
+  position: absolute;
+  top: 1200px;
+  margin-left: 900px;
+}
+
+.btnr {
+  position: absolute;
+  top: 1300px;
+  margin-left: 200px;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 1px solid #0070ba;
+  color: #0070ba;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 200px;
+
+
+}
+
+.btnz {
+  position: absolute;
+  top: 1300px;
+  margin-left: 600px;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 1px solid #0070ba;
+  color: #0070ba;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 200px;
+
+
+}
+
+.btne {
+  position: absolute;
+  top: 1290px;
+  margin-left: 950px;
+  border-radius: 25px;
+  background-color: transparent;
+  border: 1px solid #0070ba;
+  color: #0070ba;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 200px;
+
+}
+
+.connect {
+  margin-top: 300px;
+  margin-left: 250px;
+  padding-left: 20px;
+}
+
+
+.passwordText a:link {
+  text-decoration: none;
+  margin-left: 470px;
+}
+
+.passwordText a:hover {
+  text-decoration: underline;
+
+}
+
+.passwordTex a:link {
+  text-decoration: none;
+  margin-left: 700px;
+  padding-top: 200px;
+  margin-top: -500px;
+
+
+}
+
+.passwordTex a:hover {
+  text-decoration: underline;
+
+}
+
+.linetext {
+  border: -1px solid;
+  opacity: 0.4;
+}
+
+.pal {
+  margin-left: 150px;
+  
+  
+}
+.pay{
+  
+}
+.sub{
+  margin-left: 50px;
+}
